@@ -10,4 +10,3 @@ require 'pry'
     # image link: project.css("div.project-thumbnail a img").attribute("src").value
     binding.pry
   end
-
